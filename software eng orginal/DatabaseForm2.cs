@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace software_eng_orginal
 {
-    public partial class ChatForm : Form
+    public partial class DatabaseForm2 : Form
     {
-        public ChatForm()
+        public DatabaseForm2()
         {
             InitializeComponent();
         }

@@ -180,7 +180,21 @@ namespace software_eng_orginal
         private void button1_Click_1(object sender, EventArgs e)
         {
    
-            Communitymemeber communitymemeber = new Communitymemeber();
+            Communitymemeber communitymemeber = new Communitymemeber(this);
+            communitymemeber.Show();
+            this.Hide();
+        }
+
+        private void button4_Click_1(object sender, EventArgs e)
+        {
+            Communitymemeber communitymemeber = new Communitymemeber(this);
+            communitymemeber.Show();
+            this.Hide();
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            Communitymemeber communitymemeber = new Communitymemeber(this);
             communitymemeber.Show();
             this.Hide();
         }

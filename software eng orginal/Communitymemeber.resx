@@ -1051,6 +1051,19 @@
         kQErKKZDkw9tJ9ywpuBUtCDnjGVRqSV2Bc//2Q==
 </value>
   </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>+    Free or discounted event tickets
+       Membership includes a free or discounted tickets to every event that we run,
+       including our seasonal events and creative skills development workshops, including
+       our Turning Up and Butter Making Disco!</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>+    Your own living room on the high street. You’ll get access to Together Culture on
+       Fitzroy Street  in Cambridge within our opening hours (Monday - Friday, 12 - 5pm). 
+      The space has been designed for you by the award-winning Ab Rogers Design.
+       Drop in regularly to work, enjoy the space, watch a film and take part in pop-up 
+       events. </value>
+  </data>
   <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAkGBxMTEhUTExMWFhUXGB4YGBgXGBogGxsaHRsaHhsYFxoe
@@ -4991,6 +5004,12 @@
         avd5kbg4HPapr6SJktEdfp3CRf7Wc+9YQ3TMn1EtLSG5uWEsauFk4yK6nFKJpZezbOS8aRJDqkxjGwwy
         AoVOMc1Uoo3p6M2NOmd7+5y5ObUMee+4DNaR3+86FrLU/9k=
 </value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>+    Free or discounted event tickets
+       Membership includes a free or discounted tickets to every event that we run, including our
+       seasonal events and creative skills development workshops, including our Turning Up and
+       Butter Making Disco!</value>
   </data>
   <data name="$this.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>

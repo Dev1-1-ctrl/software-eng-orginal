@@ -392,7 +392,7 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Cooper Black", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Snow;
-            this.label1.Location = new System.Drawing.Point(464, 69);
+            this.label1.Location = new System.Drawing.Point(499, 31);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(473, 35);
             this.label1.TabIndex = 6;
@@ -404,7 +404,7 @@
             this.pictureBox2.BackColor = System.Drawing.Color.Gray;
             this.pictureBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(968, 69);
+            this.pictureBox2.Location = new System.Drawing.Point(978, 23);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(41, 45);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -538,6 +538,7 @@
             this.button4.TabIndex = 18;
             this.button4.Text = "Find out More ";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click_1);
             // 
             // label23
             // 
@@ -608,6 +609,7 @@
             this.button2.TabIndex = 17;
             this.button2.Text = "Find out More";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click_1);
             // 
             // label22
             // 
@@ -615,16 +617,16 @@
             this.label22.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label22.Location = new System.Drawing.Point(14, 52);
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(248, 16);
+            this.label22.Size = new System.Drawing.Size(256, 16);
             this.label22.TabIndex = 16;
-            this.label22.Text = "From £70 / month + £100 joining fee";
+            this.label22.Text = "From £100 / month + £150 joining fee";
             // 
             // pictureBox12
             // 
             this.pictureBox12.BackColor = System.Drawing.Color.Gray;
             this.pictureBox12.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox12.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox12.Image")));
-            this.pictureBox12.Location = new System.Drawing.Point(263, 5);
+            this.pictureBox12.Location = new System.Drawing.Point(267, 3);
             this.pictureBox12.Name = "pictureBox12";
             this.pictureBox12.Size = new System.Drawing.Size(37, 36);
             this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -648,7 +650,7 @@
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Modern No. 20", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Snow;
-            this.label2.Location = new System.Drawing.Point(593, 134);
+            this.label2.Location = new System.Drawing.Point(640, 94);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(225, 30);
             this.label2.TabIndex = 11;

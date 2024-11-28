@@ -187,7 +187,7 @@
             this.pictureBox8.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
-            this.pictureBox8.Location = new System.Drawing.Point(11, 455);
+            this.pictureBox8.Location = new System.Drawing.Point(17, 455);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(52, 37);
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -246,11 +246,11 @@
             // button3
             // 
             this.button3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.button3.Location = new System.Drawing.Point(6, 451);
+            this.button3.Location = new System.Drawing.Point(6, 455);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(145, 23);
             this.button3.TabIndex = 30;
-            this.button3.Text = "Profile";
+            this.button3.Text = "Report ";
             this.button3.UseVisualStyleBackColor = true;
             // 
             // button11

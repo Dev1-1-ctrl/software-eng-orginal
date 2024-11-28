@@ -29,6 +29,10 @@ namespace software_eng_orginal
 
             private void SubscribeForm_Load(object sender, EventArgs e)
         {
+            // TODO: This line of code loads data into the 'mainDatabase1DataSet.Main_database' table. You can move, or remove it, as needed.
+            this.main_databaseTableAdapter.Fill(this.mainDatabase1DataSet.Main_database);
+            // TODO: This line of code loads data into the 'mainDatabase1DataSet.Main_database' table. You can move, or remove it, as needed.
+            this.main_databaseTableAdapter.Fill(this.mainDatabase1DataSet.Main_database);
 
         }
 

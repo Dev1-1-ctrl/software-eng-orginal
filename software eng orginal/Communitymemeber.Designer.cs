@@ -446,6 +446,7 @@
             this.label4.Size = new System.Drawing.Size(286, 31);
             this.label4.TabIndex = 13;
             this.label4.Text = "Community Members";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label5
             // 

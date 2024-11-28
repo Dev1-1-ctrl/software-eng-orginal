@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace software_eng_orginal
 {
-    public partial class DatabaseForm2 : Form
+    public partial class Membership_Details : Form
     {
-        public DatabaseForm2()
+        public Membership_Details()
         {
             InitializeComponent();
         }
